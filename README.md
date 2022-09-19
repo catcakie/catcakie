@@ -1,10 +1,10 @@
-### Hello there 👋
+
 
 <div id="header" align="left">
   <img src="https://c.tenor.com/ftqs42Yna-oAAAAC/mochi-mochi-hello-white-mochi-mochi.gif" width="100"/>
 </div>
 
-My name is Danielle and...
+My name is Danielle and
 
 <!--
 **cakecandy/cakecandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
