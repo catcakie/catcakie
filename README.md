@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on getting a Bachelor's degree in Computer Science (homework every day)
+🔭 I’m currently working on getting a Bachelor's degree in Computer Science
 
 🌱 I’m currently learning Assembly and Data Structures & Algorithms
 
