@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 😄 Pronouns: she/her
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cakecandy)](https://github.com/cakecandy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catcakie)](https://github.com/catcakie/github-readme-stats)
