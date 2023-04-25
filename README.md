@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on getting a Bachelor's degree in Computer Science
 
-🌱 I’m currently learning Assembly and Data Structures & Algorithms
-
-💬 Ask me about my pet budgies!
+💬 Ask me about my pet budgies or perfumes!
 
 📫 How to reach me: Nom#5643 on Discord
 
