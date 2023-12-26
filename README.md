@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on getting a Bachelor's degree in Computer Science
 
-📫 How to reach me: mochi_berry on Discord
+📫 How to reach me: catcakie on Discord
 
 😄 Pronouns: she/her
 
